@@ -1,1 +1,1 @@
-# hot-resaturant
+# hot-restaurant
